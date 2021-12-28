@@ -103,6 +103,7 @@ PyMsgBox==1.0.9
 pyOpenSSL==21.0.0
 pyparsing==2.4.7
 pyperclip==1.8.2
+pypiwin32==223
 PyRect==0.1.4
 pyrsistent==0.17.3
 PyScreeze==0.1.28
