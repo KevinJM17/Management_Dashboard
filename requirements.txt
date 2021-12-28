@@ -76,7 +76,6 @@ openpyxl==3.0.9
 opt-einsum==3.3.0
 outcome==1.1.0
 packaging==20.9
-pandas==1.2.2
 pandocfilters==1.4.3
 parso==0.8.1
 pickleshare==0.7.5
